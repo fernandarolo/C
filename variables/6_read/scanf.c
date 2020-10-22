@@ -9,9 +9,10 @@ scanf("%d", &r);
 l=2*PI*r; 
 a=PI*r*r;
 printf("La longitud de la circunferencia vale %f\n", l);
-printf("El área del círculo vale %f\n", a);
+printf("El Ã¡rea del cÃ­rculo vale %f\n", a);
 printf("%.2f");
 printf("Elevado a la potencia",l);
 float("a^2");
 }
+
 
